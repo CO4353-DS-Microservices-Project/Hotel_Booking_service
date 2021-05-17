@@ -1,2 +1,2 @@
-# Hotel_Booking_service
-Hotel booking service of destination management system
+# hotel_service
+hotel service of the destination management system
