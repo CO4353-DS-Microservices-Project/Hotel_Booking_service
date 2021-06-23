@@ -1,0 +1,30 @@
+[
+  {
+    "hotelId": 1,
+    "hotelName": "location1",
+    "hotelRoomsCount": 5,
+    "hotelRoomPrice": 4,
+    "hotelLocation": "hotel1"
+  },
+  {
+    "hotelId": 2,
+    "hotelName": "location1",
+    "hotelRoomsCount": 5,
+    "hotelRoomPrice": 4,
+    "hotelLocation": "hotel2"
+  },
+  {
+    "hotelId": 3,
+    "hotelName": "location1",
+    "hotelRoomsCount": 5,
+    "hotelRoomPrice": 4,
+    "hotelLocation": "hotel3"
+  },
+  {
+    "hotelId": 4,
+    "hotelName": "location1",
+    "hotelRoomsCount": 5,
+    "hotelRoomPrice": 4,
+    "hotelLocation": "hotel4"
+  }
+]
