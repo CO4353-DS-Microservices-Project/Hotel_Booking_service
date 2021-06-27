@@ -25,12 +25,14 @@ public class HotelBookingController {
 		return ResponseEntity.ok().body(hotelBookingService.getAllHotels());
 	}
 	
+
 	//@GetMapping("/hotels/{hotel_location}")
 	//public ResponseEntity<List<Hotel_Booking>> getHotelByLocation(@PathVariable String hotel_location){
 		
 		//return ResponseEntity.ok().body(hotelBookingService.getHotelBookingByLocation(hotel_location));
 	//}
 	
+
 	@PostMapping("/createhotel")
 	public ResponseEntity<Hotel_Booking> createHotels(@RequestBody Hotel_Booking hotel_booking){
 		return ResponseEntity.ok().body(this.hotelBookingService.createHotelBooking(hotel_booking));

@@ -59,6 +59,7 @@ public class Hotel_Booking {
 	public int getHotelRooms() {
 		return hotelRooms;
 	}
+
 	public void setHotelRooms(int hotelRooms) {
 		this.hotelRooms = hotelRooms;
 	}
